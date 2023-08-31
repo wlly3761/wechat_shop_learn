@@ -1,6 +1,7 @@
 let ajaxTimes = 0;
 export const request = (params) => {
     ajaxTimes++;
+    console.log(ajaxTimes)
     //显示加载效果
     wx.showLoading({
         title: '加载中',
