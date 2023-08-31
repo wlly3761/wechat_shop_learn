@@ -22,11 +22,6 @@
 .icon-shoucang:before {
   content: "\e66d";
 }
-
-.icon-receipt-address:before {
-  content: "\e673";
-}
-
 .icon-kefu:before {
   content: "\e601";
 }
