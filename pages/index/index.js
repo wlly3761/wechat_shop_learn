@@ -29,6 +29,7 @@ Page({
     //       })
     //   }
     // })
+    console.log(options);
     this.getSwiperList();
     this.getCateList();
     this.getFloorList();
